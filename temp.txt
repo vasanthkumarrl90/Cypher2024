@@ -1,0 +1,128 @@
+Highly experienced Microsoft .NET core applications framework and web frameworks, Angular with 12 yearsof experience in designing, developing, and implementing software solutions. Proven track record indeveloping enterprise-level applications and managing development teams. Skilled in developing andmaintaining automated software solutions, coordinating software development activities, and workingclosely with stakeholders to ensure successful implementation of projects
+Professional Experience
+02/2020 – present
+Bengaluru,
+India
+Consultant
+Software
+Engineer,
+Societe
+Generale
+Project: DDP
+•
+Designed and developed Application to extract the required field from different documents.
+•
+Designed and developed a system to communicate with multiple co system ( OCR, MLAPI, PDF extraction ,Postprocess, Document Generation) and generate document objects.
+•
+Application able to serve millions of requests per day.
+•
+Collaborated with other developers to met client requirements
+•
+Technologies: C#, RabbitMQ, MongoDB, Docker, Kubernetes , Angular
+Project: Sceptre
+•
+Designed and developed a system to help ML team to genreate and maintain ML models.
+•
+Application id developed using Microservice architecture.
+•
+As team player involved in all phases of application development.
+•
+Application Developed using TDD
+•
+Technologies: C#, RabbitMQ, MongoDB, Service fabric, Angular
+Project: MAX AI chatbot
+•
+Designed and developed Backend and front system for MAX. a chatbot based on large language models and Information retrieval models.
+•
+Technologies: C#, MongoDB, Angular, Redis cache
+11/2016 – 02/2020
+Bengaluru,
+India
+Senior
+Software
+Engineer
+-
+IT,
+DELL
+International
+service
+pvt
+ltd
+Product: Logistic Online Inventory Solution
+Description:It is Inventory solution portal; it dispatches part to Different countries and with different vendors.
+Migrated the old application with latest tech stack.
+Developed UI Screen and Backend Rest API.
+Involved end-to-end Application development and deployment.
+Involved Database design and development.
+Technologies:.NET Core, Angular, C#, MVC, HTML, Web API, SQL server
+Product: Dell Degital Locker
+Description: The Dell Digital Locker is your single destination to manage your Dell software and the software licenses that you purchased with your Dell system or came installed on your Dell system.
+New features enhancements and product support.
+Technologies:C#, MVC, HTML, AngularJS, Web Api, SQL server
+Vasanth Kumar , R L
+Consultant Software Engineer
+vasanthkumarrl90@gmail.com
+8951820848
+Bengaluru , Karnataka India
+09/2014 – 11/2016
+Bengaluru,
+India
+Sr
+Software
+Enigneer,
+Societe
+Generale
+•
+Product: OPER Cockpit
+•
+Description: The OPER cockpit aims to provide a unique platform across commodities asset class for viewing various Dashboard, KPIs and Reports.
+•
+which in turn will increase efficiency and monitoring of activities.
+•
+Developed UI screens. Used AngularJS extensively to create the front end of the whole application.
+•
+Design and Development Backend Rest API.
+•
+Role: Senior Software Engineer
+•
+Technologies:AngularJS, C#, HTML5, Bootstrap, Gulp, Jasmine, Karma, WCF
+07/2011 – 09/2014
+Bengaluru,
+India
+Development
+Engineer,
+Epiance
+Software
+•
+Product: Presentation Editor
+•
+It is editor to Generate E-Learning Content called Presentation .Each presentation We can attach the DHTML4 epi-Learn ,HTML5 epi-Learn , Assessment output, and also External content.
+•
+Role: Developer
+•
+New features enhancements and product support.
+•
+Technologies:C#, WPF, XML, HTML, JavaScript
+Education
+08/2007 – 06/2011
+Bachelor's
+of
+Engineering
+-
+Computer
+Science,
+Visvesvaraya
+Technological
+University
+Skills
+PROGRAMMING
+(C# , .NET Core 6 HTML, CSS, JavaScript, Angular, MVC)
+Databases
+(Sql-Server, MongoDB, Postgres)
+DESIGN
+(Familiar with Microservices , architecture best practices, patterns, principles, design, BDD, TDD,LLD, HLD)
+TECHNOLOGIES
+(Git, Docker, Kubernetes, Service fabric, Jenkins, RabbitMQ)
+Languages
+English
+Kannada
